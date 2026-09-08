@@ -315,12 +315,7 @@ All assignment submissions must be hosted in a **Private** repository on GitHub 
 3. Ensure the visibility is set to **Private**.
 4. Leave "Initialize this repository with..." options unchecked if you already have a local directory with files.
 5. Click **Create repository**.
-6. Follow the instructions provided on GitHub to link your existing local directory to the remote repository:
-   ```bash
-   git remote add origin git@github.com:<your-username>/<your-repo-name>.git
-   git branch -M main
-   git push -u origin main
-   ```
+6. On your lab machine session, type `git clone` followed by the link in the "Quick Setup" box. It should look like `git@github.com:<your-username>/cmput201-assignment01.git`
 
 ---
 
@@ -394,7 +389,7 @@ Once you have pushed your `milestone-submission` branch (or your `main` branch f
 
 > [!IMPORTANT]
 > Submit your repository details using the official submission form:
-> [Google Form Submission Link]()
+> [Google Form Submission Link](https://forms.gle/nRKjX8onEMaxd5wLA)
 
 Make sure your repository link is correct and that your `milestone-submission` branch has been pushed prior to the deadline.
 
@@ -437,9 +432,9 @@ This section is designed as follows: each milestone section below will contain w
 ### General Details Regarding the Milestone Format
 
 - You will be provided with a check script for each milestone and the final submission for you to verify your progress ([more details on check](#checking)).
-- The Milestone Submission and Final Submission are each graded out of $10$ points, and weigh **[????]** of your final grade ([more details on the marking scheme](#marking-scheme)).
+- The Milestone Submission and Final Submission are each graded out of $10$ points, and weigh **9%** of your final grade ([more details on the marking scheme](#marking-scheme)).
 - While there are $2$ stages of this assignment, it should be **one overall program**.
-- The Milestone has a three week period available to be completed. There is one week between the due date of the Milestone Submission and the due date of the Final Submission.
+- Please refer to the [Course Schedule](https://docs.google.com/spreadsheets/d/1mOIXkYCYUH2vWyrxfN_qSRrHUkzlm-NaUYk7MYrRxts/edit?usp=sharing) for information about when the Milestone and Final Submission are due.
 
 ### Milestone Submission
 
@@ -451,6 +446,9 @@ For the milestone, your program is not required to process the tap history file 
 4. Output to `stdout` according to the [Milestone output specification](#milestone-output).
 
 **Mandatory files for Milestone Submission:** `src/assg.c`, `list_file.txt`
+
+> [!IMPORTANT]
+> You MUST submit the Milestone Submission through the provided Google Form by including the mandatory files on a *seperate* `milestone-submission` branch. Failure to do so will result in a **0** on your milestone submission grade. Review [Creating and Submitting the Milestone Branch](#creating-and-submitting-the-milestone-branch) for instructions on how to do this.
 
 See: [Milestone Submission Example I/O](#milestone-example-io)
 
@@ -578,6 +576,9 @@ The algorithm guesses missing tap-off stops using historical commute data struct
 4. **Guessed Flag:** Any trip that is reconstructed using this guessing algorithm must have the tag `,Guessed` appended to its line in the final `output.txt`.
 5. **Processing Order:** As noted in [Arc Card Data](#arc-card-data), the file is in reverse chronological order. You should **always** process data in chonological order. 
 
+> [!NOTE]
+> In the event that multiple exit stops have the exact same highest frequency count for a given entry stop and hour bucket, the guessing algorithm selects the exit stop with the smaller numerical Stop ID.
+
 ### Corrupt Data
 
 Your program will be required to detect errors in the formatting of input files. This will be useful when providing your own testcases. In the case that there the entry lines do not follow the format specified in [Arc Card Data](#arc-card-data), you will report through `stdout` as such. In the case that a stop ID does not appear in the schedules provided to the program, your program should report through `stdout` that there appears an invalid stop ID.
@@ -634,8 +635,7 @@ The program processes the tap records to reconstruct a journey, writing the fina
 
 2.  **Interaction and Errors:**
     *   [Disambiguation prompts](#ambiguous-trips-and-disambiguation-interface) are printed to `stdout`.
-    *   If data is [corrupt](#potential-issues) or invalid (e.g., `Invalid stop ID`), the program outputs an erro
-    r message and handles it as specified by the milestone.
+    *   If data is [corrupt](#potential-issues) or invalid (e.g., `Invalid stop ID`), the program outputs an error message and handles it as specified by the milestone.
 
 ---
 
@@ -846,3 +846,21 @@ In this assignment, you are highly encouraged to develop your own set of test ca
     - Create a `stdin` file which disambiguates trips to match the intended route as provided in the output.
 
 ## Marking Scheme
+
+The marking scheme for this assignment is as follows:
+
+This lab is split into two parts, MS and FS
+
+- MS contributes 50% to your Assignment 1 mark (/20).
+    - MS is marked using your submitted `assg.c` file, *within* the `milestone-submission` branch on your submitted repo.
+- FS contributes 50% to your Assignment 1 mark (/20).
+    - FS is marked using your submitted `assg.c` file, on your `main` branch at the time of the final due date.
+- Passing the respective check script guarantees at least 50%. The other 50% will be based on our additional marking cases, which you do not have access to before submission.
+    - The expected output for MS is the `1-X-output.txt` files located in the `MS_Testcases` directory.
+    - The expected output for FS is the `1-X-output.txt` files located in the `FS_Testcases` directory.
+- If you do not pass the testcases, you may still pass some of those marking cases and get some marks, so you should submit whatever you have!
+
+The final assignment mark will be the higher grade between:
+- Milestone 1 + Final Submission (50% Milestone 1 + 50% Final Submission)
+  OR
+- Final Submission (100% Final Submission)
