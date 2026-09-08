@@ -1,0 +1,24 @@
+712 Yellowbird, 23 Stops
+4208,Century_Park_Transit_Centre
+4256,110_Street_&_21_Avenue
+4423,110_Street_&_21_Avenue
+4549,108_Street_&_21_Avenue
+4188,106_Street_&_21_Avenue
+4290,105_Street_&_21_Avenue
+4162,104_Street_&_21_Avenue
+4254,104_Street_&_20_Avenue
+4155,105_Street_&_20_Avenue
+4573,105_Street_&_19_Avenue
+4556,105_Street_&_16_Avenue
+4385,105_Street_&_13_Avenue
+4356,106_Street_&_11_Avenue
+4387,108_Street_&_11_Avenue
+4092,109_Street_&_11_Avenue
+4184,109_Street_&_Bearspaw_Drive_East
+4090,109_Street_&_16_Avenue
+4338,109_Street_&_19_Avenue
+4081,109_Street_&_20_Avenue
+4072,109_Street_&_21_Avenue
+4479,110_Street_&_21_Avenue
+4118,110_Street_&_23_Avenue
+4208,Century_Park_Transit_Centre

@@ -1,0 +1,10 @@
+920 Lewis_Farms_Express, 9 Stops
+2890,114_Street_&_89_Avenue
+2001,University_Transit_Centre
+22720,112_Street_&_86_Avenue
+2410,112_Street_&_84_Avenue
+2660,114_Street_&_83_Avenue
+2764,114_Street_&_82_Avenue
+5840,West_Edmonton_Mall_Transit_Centre
+5381,178_Street_&_89_Avenue
+8601,Lewis_Farms_Transit_Centre

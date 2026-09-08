@@ -1,0 +1,24 @@
+729 Leger, 23 Stops
+4216,Century_Park_Transit_Centre
+4477,111_Street_&_Saddleback_Road_S_Ent
+4105,111_Street_&_12_Avenue
+4790,111_Street_&_9_Avenue
+9429,Rabbit_Hill_Road_&_Ellerslie_Road
+9440,Rabbit_Hill_Road_&_Glenridding_Boulevard
+9602,Rabbit_Hill_Road_&_Glenridding_Boulevard
+99015,Rabbit_Hill_Road_&_21_Avenue
+99189,Rabbit_Hill_Road_&_28_Avenue
+99659,Glenridding_Ravine_Drive_&_28_Avenue
+99031,Glenridding_Ravine_Wynd_&_Glenridding_Ravine_Drive
+99061,Glenridding_Ravine_Drive_&_Rabbit_Hill_Road
+99080,Keswick_Link_&_28_Avenue
+99068,182_Street_&_28_Avenue
+99387,182_Street_&_Keswick_Drive
+99309,182_Street_&_Keswick_Way
+99002,182_Street_&_Kulay_Green
+9611,Kostash_Drive_&_Hiller_Road
+9615,Keswick_Drive_&_Hiller_Road
+9613,Keswick_Drive_&_Koshal_Way
+99470,Keswick_Drive_&_Keswick_Gate
+43333,Terwillegar_Drive_&_Haddow_Road
+4801,Leger_Transit_Centre

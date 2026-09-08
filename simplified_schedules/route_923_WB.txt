@@ -1,0 +1,26 @@
+923 West_Edm_Mall, 25 Stops
+5877,172_Street_&_69_Avenue
+5678,170_Street_&_69_Avenue
+5857,Wanyandi_Road_&_Wolf_Willow_Road
+5977,Wanyandi_Road_&_Wahstao_Road
+5905,Walker_Road_&_Wanyandi_Road
+5768,Wanyandi_Road_&_Wolf_Ridge_Way
+5620,927_Wanyandi_Road
+5853,Wanyandi_Road_&_Wilkin_Road
+5727,Wallbridge_Place_&_Wanyandi_Road
+5471,Walker_Road_&_Wanyandi_Road_S
+5719,172_Street_&_Callingwood_Road
+5811,175_Street_&_Callingwood_Road
+5636,178_Street_&_Callingwood_Road
+5784,178_Street_&_64_Avenue
+5963,178_Street_&_68_Avenue
+5986,178_Street_&_69_Avenue
+5854,178_Street_&_74_Avenue
+5821,178_Street_&_76_Avenue
+5749,178_Street_&_Whitemud_Drive
+5923,178_Street_&_81_Avenue
+5750,178_Street_&_85_Avenue
+55070,178_Street_&_86_Avenue
+5482,178_Street_&_87_Avenue
+5690,178_Street_&_89_Avenue
+5212,West_Edmonton_Mall_Transit_Centre

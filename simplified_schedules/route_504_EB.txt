@@ -1,0 +1,27 @@
+504 Meadows, 26 Stops
+2604,Davies_Transit_Centre
+2433,75_Street_&_Wagner_Road
+22072,75_Street_&_68_Avenue
+22151,71_Street_&_72_Avenue
+2806,67_Street_&_72_Avenue
+2905,67_Street_&_76_Avenue
+2911,57_Street_&_76_Avenue
+2536,49_Street_&_76_Avenue
+2409,45_Street_&_76_Avenue
+2235,44_Street_&_76_Avenue
+2078,42_Street_&_76_Avenue
+2034,39_Street_&_76_Avenue
+2541,34_Street_&_76_Avenue
+2099,33_Street_&_76_Avenue
+2286,25_Street_&_76_Avenue
+2431,17_Street_&_76_Avenue
+2468,17_Street_&_73_Avenue
+2415,17_Street_&_70_Avenue
+2693,17_Street_&_Oak_Ridge_Drive
+2057,The_Parkway_&_Oak_Ridge_Drive
+2374,Meadow_Drive_&_The_Parkway
+2694,Meadow_Drive_&_Maple_Ridge_Drive
+2259,Park_Ridge_Crescent_&_Maple_Ridge_Drive
+22189,17_Street_&_59_Avenue
+22350,17_Street_&_Whitemud_Drive
+3706,Meadows_Transit_Centre

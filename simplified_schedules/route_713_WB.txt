@@ -1,0 +1,20 @@
+713 Twin_Brooks, 19 Stops
+4216,Century_Park_Transit_Centre
+4477,111_Street_&_Saddleback_Road_S_Ent
+4348,111_Street_&_12_Avenue
+4535,Twin_Brooks_Drive_&_12_Avenue
+4428,113_Street_&_12_Avenue
+4265,Twin_Brooks_Drive_&_12_Avenue
+4180,115_Street_&_12_Avenue
+4532,115_Street_&_13_Avenue
+4283,115_Street_&_15_Avenue
+4243,119_Street_&_Twin_Brooks_Close
+4690,119_Street_&_12_Avenue
+4662,119_Street_&_10_Avenue
+4697,118_Street_&_9_Avenue
+4482,116_Street_&_9_Avenue
+4453,116_Street_&_9_Avenue
+4169,115_Street_&_9_Avenue
+4233,114_Street_&_9_Avenue
+4344,113_Street_&_9_Avenue
+4132,112_Street_&_9_Avenue

@@ -1,0 +1,24 @@
+706 Leger, 23 Stops
+2208,Southgate_Transit_Centre
+2507,112_Street_&_51_Avenue
+2506,114_Street_&_51_Avenue
+2980,115_Street_&_51_Avenue
+2933,116_Street_&_51_Avenue
+22241,117_Street_&_51_Avenue
+2511,122_Street_&_51_Avenue
+2984,122_Street_&_48_Avenue
+4167,Bulyea_Road_&_Terwillegar_Drive
+4045,Bulyea_Road_&_Burton_Road_S
+4581,300_Bulyea_Road
+4253,Bulyea_Road_&_Buchanan_Road_N
+4555,Bulyea_Road_&_Burgess_Close
+4190,Oeming_Road_&_Horizon_Village
+4591,Oeming_Road_&_Oakes_Gate
+4152,Carter_Crest_Road_E_&_Rabbit_Hill_Road
+4684,Rabbit_Hill_Road_&_Cormack_Crescent
+4646,Rabbit_Hill_Road_&_Leger_Boulevard
+4778,Lamb_Crescent_&_Leger_Way
+4627,Lincoln_Crescent_&_Leger_Way
+4682,Leger_Gate_&_Leger_Way
+4749,Leger_Gate_&_23_Avenue
+4803,Leger_Transit_Centre

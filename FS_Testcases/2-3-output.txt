@@ -1,0 +1,5 @@
+2 E,124_Street_&_107_Avenue,101_Street_&_Jasper_Avenue,2026-04-01T12:10:00,2026-04-01T12:30:00,0:20:00
+2 E,124_Street_&_107_Avenue,101_Street_&_Jasper_Avenue,2026-04-02T12:15:00,2026-04-02T12:35:00,0:20:00
+2 E,124_Street_&_107_Avenue,101_Street_&_Jasper_Avenue,2026-04-03T12:20:00,2026-04-03T12:40:00,0:20:00
+2 E,124_Street_&_107_Avenue,101_Street_&_Jasper_Avenue,2026-04-04T12:25:00,2026-04-04T12:50:00,0:25:00,Guessed
+2 W,115_Street_&_Jasper_Avenue,124_Street_&_102_Avenue,2026-04-05T08:00:00,2026-04-05T08:15:00,0:15:00

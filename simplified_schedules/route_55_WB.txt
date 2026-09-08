@@ -1,0 +1,25 @@
+55 West_Edm_Mall, 24 Stops
+3705,Meadows_Transit_Centre
+2279,50_Street_&_Whitemud_Drive
+2308,99_Street_&_Whitemud_Drive
+2928,Gateway_Boulevard_&_Whitemud_Drive
+2589,106_Street_&_Whitemud_Drive
+2179,108_Street_&_Whitemud_Drive
+2204,Southgate_Transit_Centre
+2507,112_Street_&_51_Avenue
+2506,114_Street_&_51_Avenue
+2980,115_Street_&_51_Avenue
+2933,116_Street_&_51_Avenue
+22241,117_Street_&_51_Avenue
+2511,122_Street_&_51_Avenue
+2984,122_Street_&_48_Avenue
+4153,Whitemud_Drive_NB_&_53_Avenue
+5720,159_Street_&_Whitemud_Drive
+55020,159_Street_&_81_Avenue
+5929,159_Street_&_83_Avenue
+5241,Meadowlark_Road_&_87_Avenue
+5171,161_Street_&_87_Avenue
+5583,163_Street_&_87_Avenue
+5070,165_Street_&_87_Avenue
+5545,169_Street_&_87_Avenue
+5218,West_Edmonton_Mall_Transit_Centre

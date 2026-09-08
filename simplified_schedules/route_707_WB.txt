@@ -1,0 +1,19 @@
+707 Century_Park, 18 Stops
+2207,Southgate_Transit_Centre
+4490,111_Street_&_43_Avenue
+4144,111_Street_&_40_Avenue
+4220,112_Street_&_40_Avenue
+4229,114_Street_&_40_Avenue
+4592,115_Street_&_40_Avenue
+4277,117_Street_&_40_Avenue
+4270,119_Street_&_40_Avenue
+4238,119_Street_&_Fairway_Drive
+4352,119_Street_&_34_Avenue
+4260,119_Street_&_32_Avenue
+4095,119_Street_&_Westbrook_Drive
+4578,119_Street_&_28_Avenue
+4043,119_Street_&_25_Avenue
+4075,119_Street_&_23_Avenue
+4443,118_Street_&_23_Avenue
+4164,Saddleback_Road_&_23_Avenue
+4202,Century_Park_Transit_Centre

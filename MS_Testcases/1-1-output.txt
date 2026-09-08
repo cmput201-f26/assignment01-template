@@ -1,0 +1,7 @@
+Processing 6 schedule files...
+schedule #1 is route 1 it has 29 stops and is in the E direction
+schedule #2 is route 1 it has 27 stops and is in the W direction
+schedule #3 is route 2 it has 78 stops and is in the E direction
+schedule #4 is route 31 it has 12 stops and is in the W direction
+schedule #5 is route 113 it has 34 stops and is in the N direction
+schedule #6 is route 701 it has 45 stops and is in the S direction

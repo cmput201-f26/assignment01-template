@@ -1,0 +1,22 @@
+6 Davies, 21 Stops
+2213,Southgate_Transit_Centre
+2085,110_Street_&_51_Avenue
+2817,108_Street_&_51_Avenue
+2175,106_Street_&_51_Avenue
+2558,105_Street_&_51_Avenue
+2543,104_Street_&_51_Avenue
+2337,Calgary_Trail_SB_&_51_Avenue
+2378,Gateway_Boulevard_&_51_Avenue
+2917,Gateway_Boulevard_&_51_Avenue
+2270,99_Street_&_51_Avenue
+2063,97_Street_&_51_Avenue
+2220,94_Street_&_51_Avenue
+2347,93_Street_&_51_Avenue
+2281,89_Street_&_51_Avenue
+2197,88_Street_&_51_Avenue
+2332,87_Street_&_51_Avenue
+2026,86_Street_&_51_Avenue
+2338,86_Street_&_Davies_Road
+22045,83_Street_&_Wagner_Road
+22537,80_Street_&_Wagner_Road
+2609,Davies_Transit_Centre

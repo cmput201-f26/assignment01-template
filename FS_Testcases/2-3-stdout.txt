@@ -1,0 +1,35 @@
+Ambiguous trip detected:
+Entry: 1134 (124_Street_&_107_Avenue)
+Exit: 1336 (101_Street_&_Jasper_Avenue)
+Possible routes:
+1. 2 E
+2. 5 E
+Select route (1-2): 
+Ambiguous trip detected:
+Entry: 1134 (124_Street_&_107_Avenue)
+Exit: 1336 (101_Street_&_Jasper_Avenue)
+Possible routes:
+1. 2 E
+2. 5 E
+Select route (1-2): 
+Ambiguous trip detected:
+Entry: 1134 (124_Street_&_107_Avenue)
+Exit: 1336 (101_Street_&_Jasper_Avenue)
+Possible routes:
+1. 2 E
+2. 5 E
+Select route (1-2): 
+Ambiguous trip detected:
+Entry: 1134 (124_Street_&_107_Avenue)
+Exit: 1336 (101_Street_&_Jasper_Avenue)
+Possible routes:
+1. 2 E
+2. 5 E
+Select route (1-2): 
+Ambiguous trip detected:
+Entry: 1918 (115_Street_&_Jasper_Avenue)
+Exit: 1828 (124_Street_&_102_Avenue)
+Possible routes:
+1. 2 W
+2. 5 W
+Select route (1-2): 

@@ -1,0 +1,11 @@
+919 Secord, 10 Stops
+8605,Lewis_Farms_Transit_Centre
+8536,West_Henday_Promenade_Access_&_Webber_Greens_Drive
+8540,206_Street_&_Webber_Greens_Drive
+8077,Lewis_Greens_Drive_&_93_Avenue
+8072,Lewis_Greens_Drive_&_94_Avenue
+8069,208_Street_&_96_Avenue
+8844,211_Street_&_96_Avenue
+8087,213_Street_&_96_Avenue
+8129,215_Street_&_Secord_Boulevard
+88708,215_Street_&_92_Avenue

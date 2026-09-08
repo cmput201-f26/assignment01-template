@@ -1,0 +1,26 @@
+902 Nait, 25 Stops
+2890,114_Street_&_89_Avenue
+2002,University_Transit_Centre
+2882,112_Street_&_87_Avenue
+2749,114_Street_&_87_Avenue
+2851,116_Street_&_87_Avenue
+2512,118_Street_&_87_Avenue
+2986,120_Street_&_87_Avenue
+2960,Groat_Road_&_Emily_Murphy_Park_Road
+1806,118_Street_&_Victoria_Park_Road
+1621,116_Street_&_100_Avenue
+1700,116_Street_&_Jasper_Avenue
+1692,116_Street_&_103_Avenue
+1835,116_Street_&_105_Avenue
+1825,116_Street_&_106_Avenue
+1671,116_Street_&_107_Avenue
+1946,113_Street_&_107_Avenue
+1807,111_Street_&_107_Avenue
+1717,109_Street_&_107_Avenue
+1736,109_Street_&_109_Avenue
+1090,109_Street_&_110_Avenue
+1899,109_Street_&_111_Avenue
+1674,109_Street_&_113_Avenue
+1890,109_Street_&_Princess_Elizabeth_Avenue
+1227,106_Street_&_117_Avenue
+1532,106_Street_&_118_Avenue_Loop

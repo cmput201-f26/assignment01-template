@@ -1,0 +1,27 @@
+902 University, 26 Stops
+1532,106_Street_&_118_Avenue_Loop
+1223,106_Street_&_117_Avenue
+1860,109_Street_&_Princess_Elizabeth_Avenue
+1631,109_Street_&_113_Avenue
+1987,109_Street_&_Kingsway
+1857,109_Street_&_111_Avenue
+1641,109_Street_&_110_Avenue
+1963,109_Street_&_108_Avenue
+1842,110_Street_&_107_Avenue
+1995,112_Street_&_107_Avenue
+1905,114_Street_&_107_Avenue
+1644,116_Street_&_107_Avenue
+1747,117_Street_&_107_Avenue
+1637,116_Street_&_105_Avenue
+1855,116_Street_&_104_Avenue
+1939,116_Street_&_Jasper_Avenue
+1827,116_Street_&_100_Avenue
+1779,118_Street_&_Victoria_Park_Road
+2501,Groat_Road_&_Mayfair_Golf_Country_Club
+2515,Groat_Road_&_Hawrelak_Park
+2940,120_Street_&_87_Avenue
+2920,119_Street_&_87_Avenue
+2666,117_Street_&_87_Avenue
+2844,116_Street_&_87_Avenue
+2890,114_Street_&_89_Avenue
+2002,University_Transit_Centre

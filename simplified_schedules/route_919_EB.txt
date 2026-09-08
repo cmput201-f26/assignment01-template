@@ -1,0 +1,24 @@
+919 Lewis_Farms, 23 Stops
+88708,215_Street_&_92_Avenue
+88707,218_Street_&_92_Avenue
+88706,Secord_Drive_&_92_Avenue
+88705,223_Street_&_92_Avenue
+8227,Secord_Boulvevard_&_92_Avenue
+88703,Secord_Boulevard_&_94_Avenue
+88702,Secord_Boulevard_&_Secord_Gate
+88701,Secord_Boulevard_&_96_Avenue
+88700,Secord_Boulevard_&_97_Avenue
+88170,224_Street_&_Secord_Boulevard
+88169,222_Street_&_Secord_Boulevard
+8080,Secord_Drive_&_Secord_Boulevard
+8061,218_Street_&_Secord_Boulevard
+8068,215_Street_&_96_Avenue
+8134,213_Street_&_96_Avenue
+8166,211_Street_&_96_Avenue
+8589,208_Street_&_96_Avenue
+8934,Lewis_Greens_Drive_&_96_Avenue
+8136,Lewis_Greens_Drive_&_94_Avenue
+8132,Webber_Greens_Drive_&_92_Avenue
+8581,Suder_Greens_Drive_&_Webber_Greens_Drive
+8406,Suder_Greens_Drive_&_Webber_Greens_Drive
+8605,Lewis_Farms_Transit_Centre

@@ -1,0 +1,27 @@
+718 Century_Park, 26 Stops
+4810,Leger_Transit_Centre
+43332,Terwillegar_Drive_&_Riverbend_Road
+43334,Terwillegar_Drive_&_Haddow_Drive
+9710,Windermere_Way_&_Windermere_Boulevard
+9569,Windermere_Way_&_Windermere_Boulevard
+9568,Windermere_Way_&_Wates_Link
+9708,Windermere_Way_&_Wates_Link
+9702,Washburn_Drive_&_Wates_Link
+9460,175_Street_&_Wright_Drive
+9461,178_Street_&_Wright_Drive
+9572,Wright_Drive_&_8_Avenue
+9077,177_Street_&_10_Avenue
+9103,175_Street_&_10_Avenue
+9574,Keswick_Drive_&_Hiller_Road
+9323,164_Street_&_Glenridding_Boulevard
+9607,162_Street_&_Glenridding_Boulevard
+9321,Glenridding_Way_&_Glenridding_Boulevard
+9072,Glenridding_Gate_&_10_Avenue
+9325,Glenridding_Gate_&_Ellerslie_Road
+9631,Rabbit_Hill_Road_&_Ellerslie_Road
+4106,111_Street_&_9_Avenue
+4864,111_Street_&_12_Avenue
+4440,111_Street_&_19_Avenue
+4961,111_Street_&_19_Avenue
+4548,111_Street_&_23_Avenue
+4207,Century_Park_Transit_Centre

@@ -1,0 +1,13 @@
+502 South_Campus, 12 Stops
+2608,Davies_Transit_Centre
+2189,80_Street_&_Wagner_Road
+2184,86_Street_&_Wagner_Road
+2092,86_Street_&_Coronet_Road
+22081,97_Street_&_63_Avenue
+2837,99_Street_&_63_Avenue
+2898,103_Street_&_63_Avenue
+22074,104_Street_&_Allandale_Road
+2772,113_Street_&_61_Avenue
+22229,113_Street_&_60_Avenue
+22156,113_Street_&_65_Avenue
+2707,South_Campus_Fort_Edmonton_Transit_Centre

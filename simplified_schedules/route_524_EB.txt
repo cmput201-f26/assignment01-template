@@ -1,0 +1,14 @@
+524 Holyrood, 13 Stops
+2808,Bonnie_Doon_Mall_South_Entrance
+2590,85_Street_&_82_Avenue
+2340,87_Street_&_82_Avenue
+2087,89_Street_&_82_Avenue
+2432,91_Street_&_82_Avenue
+2036,91_Street_&_84_Avenue
+2031,91_Street_&_88_Avenue
+2596,92_Street_&_90_Avenue
+2384,92_Street_&_92_Avenue
+2133,92_Street_&_93_Avenue
+2585,Donnell_Road_&_95_Avenue
+2312,92_Street_&_95_Avenue
+2585,Donnell_Road_&_95_Avenue

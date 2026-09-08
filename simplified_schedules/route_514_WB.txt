@@ -1,0 +1,23 @@
+514 Millhurst, 22 Stops
+3914,Mill_Woods_Transit_Centre
+3127,Hewes_Way_&_23_Avenue
+3129,57_Street_&_23_Avenue
+3088,57_Street_&_19_Avenue
+3086,61_Street_&_19_Avenue
+3084,62_Street_&_18_Avenue
+3082,62_Street_&_Mill_Woods_Road_S
+3080,62_Street_&_14_Avenue
+3078,62_Street_&_12_Avenue
+3076,61_Street_&_11_Avenue
+3074,58_Street_&_11_Avenue
+3072,55_Street_&_11_Avenue
+3070,54_Street_&_14_Avenue
+3138,54_Street_&_Mill_Woods_Road_S
+3136,54_Street_&_17_Avenue
+3134,54_Street_&_18_Avenue
+3132,55_Street_&_19_Avenue
+3130,57_Street_&_19_Avenue
+3128,57_Street_&_22_Avenue
+3087,58_Street_&_23_Avenue
+3967,66_Street_&_23_Avenue
+3914,Mill_Woods_Transit_Centre

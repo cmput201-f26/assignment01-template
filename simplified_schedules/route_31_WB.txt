@@ -1,0 +1,13 @@
+31 Leger_Super_Express, 12 Stops
+2890,114_Street_&_89_Avenue
+2001,University_Transit_Centre
+22720,112_Street_&_86_Avenue
+2410,112_Street_&_84_Avenue
+2660,114_Street_&_83_Avenue
+2764,114_Street_&_82_Avenue
+2707,South_Campus_Fort_Edmonton_Transit_Centre
+2704,South_Campus_Fort_Edmonton_Transit_Centre
+22160,116_Street_&_68_Avenue
+4439,Terwillegar_Drive_&_40_Avenue
+4159,Terwillegar_Drive_&_Rabbit_Hill_Road
+4806,Leger_Transit_Centre

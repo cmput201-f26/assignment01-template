@@ -1,0 +1,16 @@
+900 Downtown_Super_Express, 15 Stops
+8614,Lewis_Farms_Transit_Centre
+5216,West_Edmonton_Mall_Transit_Centre
+5442,144_Street_&_107_Avenue
+1242,124_Street_&_102_Avenue
+1466,112_Street_&_Jasper_Avenue
+1083,109_Street_&_Jasper_Avenue
+1035,107_Street_&_Jasper_Avenue
+1271,105_Street_&_Jasper_Avenue
+1322,103_Street_&_Jasper_Avenue
+1336,101_Street_&_Jasper_Avenue
+1256,Thornton_Court_&_Jasper_Avenue
+1571,97_Street_&_Jasper_Avenue
+11309,97_Street_&_103_Avenue
+1064,101_Street_&_103_Avenue
+1243,101_Street_&_102_Avenue

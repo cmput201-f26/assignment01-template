@@ -1,0 +1,18 @@
+723 Parkallen, 17 Stops
+2890,114_Street_&_89_Avenue
+2001,University_Transit_Centre
+22720,112_Street_&_86_Avenue
+2410,112_Street_&_84_Avenue
+2834,112_Street_&_82_Avenue
+2686,110_Street_&_82_Avenue
+2690,109_Street_&_82_Avenue
+2726,109_Street_&_80_Avenue
+2760,109_Street_&_University_Avenue
+2889,109_Street_&_76_Avenue
+2872,109_Street_&_74_Avenue
+2627,109_Street_&_72_Avenue
+2668,109_Street_&_70_Avenue
+2727,109_Street_&_68_Avenue
+2667,109_Street_&_65_Avenue
+2880,111_Street_&_65_Avenue
+2795,112_Street_&_65_Avenue

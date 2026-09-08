@@ -1,0 +1,19 @@
+922 Rosenthal, 18 Stops
+8604,Lewis_Farms_Transit_Centre
+8536,West_Henday_Promenade_Access_&_Webber_Greens_Drive
+8540,206_Street_&_Webber_Greens_Drive
+8148,Lewis_Greens_Drive_&_Webber_Greens_Drive
+8157,211_Street_&_Webber_Greens_Dive
+8070,213_Street_&_Webber_Greens_Drive
+88708,215_Street_&_92_Avenue
+88707,218_Street_&_92_Avenue
+88172,Rosenthal_Way_&_91_Avenue
+8179,Rosenthal_Way_&_Rosenthal_Link
+8856,218_Street_&_Rosenthal_Link
+8924,217_Street_&_Rosenthal_Link
+8930,215_Street_&_Rosenthal_Link
+8358,215_Street_&_Suder_Greens_Drive
+8199,215_Street_&_Rosenthal_Boulevard
+8841,217_Street_&_Rosenthal_Boulevard
+8321,Rosenthal_Way_&_Rosenthal_Boulevard
+8929,222_Street_&_Rosenthal_Boulevard

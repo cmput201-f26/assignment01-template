@@ -1,0 +1,20 @@
+120 Eaux_Claires_Express, 19 Stops
+1307,Government_Transit_Centre
+1794,107_Street_&_99_Avenue
+1711,107_Street_&_100_Avenue
+1035,107_Street_&_Jasper_Avenue
+1271,105_Street_&_Jasper_Avenue
+1322,103_Street_&_Jasper_Avenue
+1346,101_Street_&_101_Avenue
+1570,101_Street_&_103_Avenue
+1123,99_Street_&_103_Avenue
+1479,97_Street_&_103_Avenue
+1193,97_Street_&_107_Avenue
+1471,97_Street_&_111_Avenue
+1427,97_Street_&_118_Avenue
+1523,97_Street_&_122_Avenue
+7351,97_Street_&_127_Avenue
+7465,97_Street_&_132_Avenue
+7579,97_Street_&_135_Avenue
+7011,Northgate_Transit_Centre
+6309,Eaux_Claires_Transit_Centre

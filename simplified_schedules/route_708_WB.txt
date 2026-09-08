@@ -1,0 +1,21 @@
+708 Century_Park, 20 Stops
+2205,Southgate_Transit_Centre
+4490,111_Street_&_43_Avenue
+4275,111_Street_&_40_Avenue
+4052,111_Street_&_37_Avenue
+4125,112_Street_&_37_Avenue
+4044,114_Street_&_37_Avenue
+4134,114_Street_&_35_Avenue
+4486,113_Street_&_34_Avenue
+4049,113_Street_&_31_Avenue
+4174,112_Street_&_30_Avenue
+4245,112_Street_&_29_Avenue
+4543,112_Street_&_Saddleback_Road
+4175,113_Street_&_Saddleback_Road_N_Ent
+4085,114_Street_&_Saddleback_Road_N_Ent
+4179,Saddleback_Road_&_27_Avenue
+4589,Saddleback_Road_&_25_Avenue
+4076,Saddleback_Road_&_25_Avenue
+4452,Saddleback_Road_&_23_Avenue
+4164,Saddleback_Road_&_23_Avenue
+4211,Century_Park_Transit_Centre

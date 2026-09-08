@@ -1,0 +1,16 @@
+702 Southgate, 15 Stops
+2713,South_Campus_Fort_Edmonton_Transit_Centre
+2988,116_Street_&_Belgravia_Road
+2962,122_Street_&_63_Avenue
+2925,122_Street_&_53_Avenue
+2511,122_Street_&_51_Avenue
+2984,122_Street_&_48_Avenue
+4197,122_Street_&_Royal_Road
+4474,119_Street_&_40_Avenue
+4528,117_Street_&_40_Avenue
+4139,117_Street_&_41_Avenue
+4194,116_Street_&_43_Avenue
+4135,115_Street_&_43_Avenue
+44153,113_Street_&_43_Avenue
+4054,111_Street_&_43_Avenue
+2203,Southgate_Transit_Centre

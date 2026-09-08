@@ -1,0 +1,22 @@
+503 Millbourne, 21 Stops
+2611,Davies_Transit_Centre
+2189,80_Street_&_Wagner_Road
+2039,86_Street_&_61_Avenue
+2622,86_Street_&_58_Avenue
+2740,87_Street_&_58_Avenue
+22722,88_Street_&_58_Avenue
+2684,91_Street_&_58_Avenue
+2756,94_Street_&_58_Avenue
+2763,96_Street_&_58_Avenue
+22080,97_Street_&_56_Avenue
+22079,97_Street_&_54_Avenue
+22065,97_Street_&_45_Avenue
+3735,97_Street_&_42_Avenue
+3623,97_Street_&_41_Avenue
+3600,95_Street_&_39_Avenue
+3724,93_Street_&_39_Avenue
+3744,92_Street_&_39_Avenue
+33111,85_Street_&_Mill_Woods_Road
+3659,Mill_Woods_Road_&_38_Avenue
+3534,76_Street_&_38_Avenue
+3386,Millbourne_Road_E_&_38_Avenue

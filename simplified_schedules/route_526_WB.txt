@@ -1,0 +1,25 @@
+526 Millbourne_Woodvale, 24 Stops
+3904,Mill_Woods_Transit_Centre
+3089,66_Street_&_27_Avenue
+3264,67_Street_&_28_Avenue
+3012,Lakewood_3012
+3531,Mill_Woods_Road_&_29_Avenue
+3224,Mill_Woods_Road_&_Lakewood_Road_N
+3424,Mill_Woods_Road_&_34_Avenue
+3381,82_Street_&_34_Avenue
+3463,91_Street_&_34_Avenue
+3482,92_Street_&_34_Avenue
+3120,93_Street_&_34_Avenue
+3497,Parsons_Road_&_34_Avenue
+3395,Parsons_Road_&_33_Avenue
+3283,Parsons_Road_&_31_Avenue
+3388,97_Street_&_31_Avenue
+3540,97_Street_&_32_Avenue
+3600,95_Street_&_39_Avenue
+3724,93_Street_&_39_Avenue
+3744,92_Street_&_39_Avenue
+33111,85_Street_&_Mill_Woods_Road
+3659,Mill_Woods_Road_&_38_Avenue
+3534,76_Street_&_38_Avenue
+3386,Millbourne_Road_E_&_38_Avenue
+3380,68_Street_&_38_Avenue

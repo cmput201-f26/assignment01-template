@@ -1,0 +1,7 @@
+Ambiguous trip detected:
+Entry: 2853 (101_Street_&_82_Avenue)
+Exit: 2689 (109_Street_&_82_Avenue)
+Possible routes:
+1. 4 W
+2. 8 W
+Select route (1-2): 

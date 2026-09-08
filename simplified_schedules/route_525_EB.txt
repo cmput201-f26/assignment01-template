@@ -1,0 +1,16 @@
+525 Bonnie_Doon, 15 Stops
+2313,97_Street_&_71_Avenue
+2051,96_Street_&_71_Avenue
+2335,96_Street_&_73_Avenue
+2132,96_Street_&_75_Avenue
+2265,96_Street_&_77_Avenue
+22351,96_Street_&_80_Avenue
+2428,96_Street_&_81_Avenue
+2124,96_Street_&_82_Avenue
+2527,93_Street_&_82_Avenue
+2848,91_Street_&_82_Avenue
+2443,89_Street_&_82_Avenue
+2065,87_Street_&_82_Avenue
+2401,Bonnie_Doon_North_Entrance
+2910,Bonnie_Doon_Mall
+2808,Bonnie_Doon_Mall_South_Entrance

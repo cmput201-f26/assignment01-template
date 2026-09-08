@@ -1,0 +1,20 @@
+719 Chappelle, 19 Stops
+4212,Century_Park_Transit_Centre
+4477,111_Street_&_Saddleback_Road_S_Ent
+4105,111_Street_&_12_Avenue
+4790,111_Street_&_9_Avenue
+9666,111_Street_&_MacEwan_Road
+9042,MacEwan_Close_&_MacEwan_Road
+9101,MacEwan_Road_&_McAllister_Loop_W
+9687,119_Street_&_MacEwan_Road
+9668,Melrose_Place_&_MacEwan_Road
+9482,MacEwan_Road_&_Melrose_Crescent
+9150,MacEwan_Road_&_Marion_Place
+9114,MacEwan_Road_&_Miles_Place
+99517,Heritage_Valley_Trail_&_Ellerslie_Road
+9589,Graydon_Hill_Boulevard_&_Ellerslie_Road
+9185,141_Street_&_Ellerslie_Road
+9186,141_Street_&_Hays_Ridge_Boulevard
+9758,141_Street_&_Paisley_Road
+9187,141_Street_&_Hays_Ridge_Boulevard
+9273,141_Street_&_28_Avenue

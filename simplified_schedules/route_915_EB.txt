@@ -1,0 +1,24 @@
+915 Jasper_Place, 23 Stops
+5840,West_Edmonton_Mall_Transit_Centre
+5381,178_Street_&_89_Avenue
+5283,182_Street_&_87_Avenue
+5272,182_Street_&_89_Avenue
+5388,182_Street_&_91_Avenue
+5540,182_Street_&_93_Avenue
+5567,182_Street_&_95_Avenue
+5497,178_Street_&_95_Avenue
+5253,178_Street_&_95_Avenue
+5701,176_Street_&_95_Avenue
+5581,175_Street_&_95_Avenue
+5167,172_Street_&_95_Avenue
+5193,170_Street_&_95_Avenue
+5295,167_Street_&_95_Avenue
+5181,165_Street_&_95_Avenue
+5383,163_Street_&_95_Avenue
+5358,163_Street_&_97_Avenue
+5097,163_Street_&_99_Avenue
+5552,163_Street_&_100_Avenue
+5425,162_Street_&_Stony_Plain_Road
+5600,160_Street_&_Stony_Plain_Road
+5153,159_Street_&_Stony_Plain_Road
+5102,Jasper_Place_Transit_Centre

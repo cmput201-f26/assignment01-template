@@ -1,0 +1,14 @@
+524 Bonnie_Doon, 13 Stops
+2585,Donnell_Road_&_95_Avenue
+23358,92_Street_&_95_Avenue
+2334,87_Street_&_95_Avenue
+2246,85_Street_&_95_Avenue
+2364,Holyrood_Road_&_95_Avenue
+2483,79_Street_&_95_Avenue
+2073,82_Street_&_94_Avenue
+22657,83_Street_&_93_Avenue
+2391,85_Street_&_92_Avenue
+2196,83_Street_&_90_Avenue
+2401,Bonnie_Doon_North_Entrance
+2910,Bonnie_Doon_Mall
+2808,Bonnie_Doon_Mall_South_Entrance

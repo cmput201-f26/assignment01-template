@@ -1,0 +1,27 @@
+511 Downtown, 26 Stops
+3911,Mill_Woods_Transit_Centre
+3676,66_Street_&_28_Avenue
+3980,66_Street_&_31_Avenue
+3981,66_Street_&_34_Avenue
+3983,66_Street_&_36_Avenue
+3376,66_Street_&_38_Avenue
+3859,66_Street_&_41_Avenue
+2474,75_Street_&_51_Avenue
+2044,75_Street_&_McIntyre_Road
+2610,Davies_Transit_Centre
+2338,86_Street_&_Davies_Road
+2184,86_Street_&_Wagner_Road
+2092,86_Street_&_Coronet_Road
+2123,83_Street_&_Argyll_Road
+2069,83_Street_&_71_Avenue
+2045,83_Street_&_73_Avenue
+2525,83_Street_&_76_Avenue
+2551,83_Street_&_84_Avenue
+2329,83_Street_&_86_Avenue
+2083,85_Street_&_93_Avenue
+2097,90_Street_&_95_Avenue
+2134,Low_Level_Bridge_&_98_Avenue
+1190,McDougall_Hill_&_Grierson_Hill
+1457,100_Street_&_Jasper_Avenue
+1246,100_Street_&_102_Avenue
+1804,100_Street_&_102_Avenue

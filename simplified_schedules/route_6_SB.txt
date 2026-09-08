@@ -1,0 +1,22 @@
+6 Southgate, 21 Stops
+2609,Davies_Transit_Centre
+2189,80_Street_&_Wagner_Road
+2039,86_Street_&_61_Avenue
+2385,86_Street_&_58_Avenue
+2556,86_Street_&_53_Avenue
+2273,86_Street_&_51_Avenue
+2297,87_Street_&_51_Avenue
+2377,88_Street_&_51_Avenue
+2424,89_Street_&_51_Avenue
+2381,91_Street_&_51_Avenue
+2463,93_Street_&_51_Avenue
+2482,97_Street_&_51_Avenue
+2266,99_Street_&_51_Avenue
+2296,Gateway_Boulevard_&_51_Avenue
+2156,Calgary_Trail_SB_&_51_Avenue
+2635,105_Street_&_51_Avenue
+2888,106_Street_&_51_Avenue
+22723,106_Street_&_47_Avenue
+2589,106_Street_&_Whitemud_Drive
+2179,108_Street_&_Whitemud_Drive
+2213,Southgate_Transit_Centre

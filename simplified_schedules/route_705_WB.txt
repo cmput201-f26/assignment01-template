@@ -1,0 +1,24 @@
+705 Century_Park, 23 Stops
+2211,Southgate_Transit_Centre
+2085,110_Street_&_51_Avenue
+2817,108_Street_&_51_Avenue
+2888,106_Street_&_51_Avenue
+22723,106_Street_&_47_Avenue
+4239,106_Street_&_Whitemud_Drive
+4598,107_Street_&_42_Avenue
+4147,108_Street_&_41_Avenue
+4458,108_Street_&_40_Avenue
+4478,108_Street_&_37_Avenue
+4557,108_Street_&_36_Avenue
+4198,106_Street_&_36_Avenue
+4399,106_Street_&_34_Avenue
+4450,106_Street_&_32_Avenue
+4282,107_Street_&_32_Avenue
+4298,109_Street_&_32_Avenue
+4565,109_Street_&_29_Avenue
+4131,109_Street_&_29_Avenue
+4294,109_Street_&_28_Avenue
+4236,109_Street_&_25_Avenue
+4004,109_Street_&_23_Avenue
+4118,110_Street_&_23_Avenue
+4210,Century_Park_Transit_Centre

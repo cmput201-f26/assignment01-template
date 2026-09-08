@@ -1,0 +1,24 @@
+909 Jasper_Place, 23 Stops
+5209,Westmount_Transit_Centre
+5329,135_Street_&_111_Avenue
+5524,136_Street_&_109_Avenue
+5523,137_Street_&_109_Avenue
+5559,138_Street_&_109_Avenue
+5430,142_Street_&_McQueen_Road
+5398,146_Street_&_109_Avenue
+5331,149_Street_&_110_Avenue
+5277,152_Street_&_110_Avenue
+5592,154_Street_&_110_Avenue
+5130,156_Street_&_110_Avenue
+5023,159_Street_&_110_Avenue
+5150,161_Street_&_110_Avenue
+5926,161_Street_&_109_Avenue
+5455,163_Street_&_109_Avenue
+5129,163_Street_&_108_Avenue
+5232,163_Street_&_107_Avenue
+5268,163_Street_&_106_Avenue
+5225,163_Street_&_104_Avenue
+5425,162_Street_&_Stony_Plain_Road
+5600,160_Street_&_Stony_Plain_Road
+5153,159_Street_&_Stony_Plain_Road
+5106,Jasper_Place_TC_on_100_Avenue

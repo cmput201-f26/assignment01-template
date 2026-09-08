@@ -1,0 +1,19 @@
+705 Southgate, 18 Stops
+4210,Century_Park_Transit_Centre
+4582,111_Street_&_29_Avenue
+4420,109_Street_&_29_Avenue
+4140,109_Street_&_32_Avenue
+4561,108_Street_&_32_Avenue
+4133,106_Street_&_32_Avenue
+4384,106_Street_&_34_Avenue
+4058,106_Street_&_35_Avenue
+4588,106_Street_&_36_Avenue
+4541,108_Street_&_36_Avenue
+4368,108_Street_&_37_Avenue
+4370,108_Street_&_40_Avenue
+4374,108_Street_&_41_Avenue
+4057,107_Street_&_42_Avenue
+4468,106_Street_&_42_Avenue
+2589,106_Street_&_Whitemud_Drive
+2179,108_Street_&_Whitemud_Drive
+2211,Southgate_Transit_Centre

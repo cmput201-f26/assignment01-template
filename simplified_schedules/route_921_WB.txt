@@ -1,0 +1,17 @@
+921 Westview, 16 Stops
+5101,Jasper_Place_Transit_Centre
+5353,159_Street_&_Stony_Plain_Road
+5579,161_Street_&_Stony_Plain_Road
+5249,163_Street_&_Stony_Plain_Road
+5465,165_Street_&_Stony_Plain_Road
+5060,167_Street_&_Stony_Plain_Road
+5397,169_Street_&_Stony_Plain_Road
+8632,172_Street_&_103_Avenue
+8738,174_Street_&_102_Avenue
+8953,175_Street_&_Stony_Plain_Road
+8904,178_Street_&_Stony_Plain_Road
+8951,180_Street_&_Stony_Plain_Road
+8047,184_Street_&_Stony_Plain_Road
+8694,215_Street_&_103_Avenue
+8927,215_Street_&_107_Avenue
+8163,215_Street_&_Westview_Boulevard

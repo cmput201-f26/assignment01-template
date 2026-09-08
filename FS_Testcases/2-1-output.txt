@@ -1,0 +1,2 @@
+4 E,114_Street_&_89_Avenue,University_Transit_Centre,2026-04-28T09:56:00,2026-04-28T09:57:00,0:01:00
+4 E,University_Transit_Centre,107_Street_&_82_Avenue,2026-04-28T09:58:00,2026-04-28T10:07:00,0:09:00

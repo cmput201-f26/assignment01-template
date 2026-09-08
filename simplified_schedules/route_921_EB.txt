@@ -1,0 +1,25 @@
+921 Jasper_Place, 24 Stops
+8163,215_Street_&_Westview_Boulevard
+8955,Westview_Crescent_E_&_Westview_Boulevard
+8938,Westview_Crescent_W_&_Westview_Boulevard
+8989,Lakeview_Drive_&_Westview_Boulevard
+8967,Lakewood_Drive_&_Lakeview_Drive
+8943,Lakeside_Drive_&_Lakeview_Drive
+8975,Westview_Village_&_Lakeview_Drive
+8945,215_Street_&_103_Avenue
+8894,213_Street_&_100_Avenue
+55079,184_Street_&_100_Avenue
+8786,184_Street_&_Stony_Plain_Road
+8771,180_Street_&_Stony_Plain_Road
+8941,178_Street_&_Stony_Plain_Road
+8817,175_Street_&_Stony_Plain_Road
+8417,175_Street_&_102_Avenue
+8684,172_Street_&_103_Avenue
+5728,170_Street_&_100_Avenue
+5351,167_Street_&_Stony_Plain_Road
+5551,166_Street_&_Stony_Plain_Road
+5313,164_Street_&_Stony_Plain_Road
+5425,162_Street_&_Stony_Plain_Road
+5600,160_Street_&_Stony_Plain_Road
+5153,159_Street_&_Stony_Plain_Road
+5101,Jasper_Place_Transit_Centre

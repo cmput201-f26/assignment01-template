@@ -1,0 +1,13 @@
+128 Northgate, 12 Stops
+7754,Northgate_Lion_Centre
+77333,75_Street_&_139_Avenue
+7156,74_Street_&_Delwood_Road
+7543,77_Street_&_Delwood_Road
+7175,Delwood_Road_&_134_Avenue
+7085,80_Street_&_135_Avenue
+7221,82_Street_&_134_Avenue
+7181,85_Street_&_134_Avenue
+7363,87_Street_&_135_Avenue
+7295,90_Street_&_135_Avenue
+7193,90_Street_&_135_Avenue
+7011,Northgate_Transit_Centre

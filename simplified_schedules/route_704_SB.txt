@@ -1,0 +1,9 @@
+704 Southgate, 8 Stops
+4569,South_Trail_Plaza
+2954,Gateway_Boulevard_&_Whitemud_Drive
+2315,Gateway_Boulevard_&_48_Avenue
+2452,Calgary_Trail_&_48_Avenue
+2076,Calgary_Trail_SB_&_45_Avenue
+2589,106_Street_&_Whitemud_Drive
+2179,108_Street_&_Whitemud_Drive
+2218,Southgate_Transit_Centre

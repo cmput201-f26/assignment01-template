@@ -1,0 +1,24 @@
+706 Southgate, 23 Stops
+4803,Leger_Transit_Centre
+4652,Lambert_Court_&_Leger_Way
+4656,Lincoln_Crescent_&_Leger_Way
+4696,Lamb_Crescent_&_Leger_Way
+4655,Rabbit_Hill_Road_&_Hodgson_Boulevard
+4844,Rabbit_Hill_Road_&_Leger_Boulevard
+4250,Ogilvie_Boulevard_&_Rabbit_Hill_Road
+4489,Oeming_Road_&_Oakes_Gate
+4424,Bulyea_Road_&_Oeming_Road
+4284,Bulyea_Road_&_Burley_Drive_S
+4488,Bulyea_Road_&_Burley_Road_N
+4426,301_Bulyea_Road
+4321,Bulyea_Road_&_Burton_Road_S
+4246,Bulyea_Road_&_Burton_Road_N
+4104,Terwillegar_Drive_&_40_Avenue
+4332,122_Street_&_Whitemud_Drive
+2973,122_Street_&_48_Avenue
+2942,122_Street_&_51_Avenue
+22044,117_Street_&_51_Avenue
+2991,116_Street_&_51_Avenue
+2941,115_Street_&_51_Avenue
+2949,Malmo_Road_&_51_Avenue
+2208,Southgate_Transit_Centre

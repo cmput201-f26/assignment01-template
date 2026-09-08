@@ -1,0 +1,23 @@
+128 Londonderry, 22 Stops
+7011,Northgate_Transit_Centre
+7138,93_Street_&_137_Avenue
+7597,92_Street_&_135_Avenue
+7250,90_Street_&_135_Avenue
+7284,87_Street_&_135_Avenue
+7022,85_Street_&_134_Avenue
+7588,82_Street_&_134_Avenue
+7074,81_Street_&_135_Avenue
+7084,Delwood_Road_&_134_Avenue
+7052,77_Street_&_Delwood_Road
+77353,75_Street_&_138_Avenue
+7754,Northgate_Lion_Centre
+77333,75_Street_&_139_Avenue
+7486,72_Street_&_140_Avenue
+7342,69_Street_&_140_Avenue
+77343,Londonderry_Mall_North_Entrance
+7186,69_Street_&_144_Avenue
+77262,Londonderry_Mall_East_Entrance
+7944,Londonderry_Mall_South_Entrance
+77431,70_Street_&_137_Avenue
+77353,75_Street_&_138_Avenue
+7754,Northgate_Lion_Centre

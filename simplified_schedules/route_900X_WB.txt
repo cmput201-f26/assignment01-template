@@ -1,0 +1,18 @@
+900 Lewis_Farms_Super_Express, 17 Stops
+1336,101_Street_&_Jasper_Avenue
+1256,Thornton_Court_&_Jasper_Avenue
+1571,97_Street_&_Jasper_Avenue
+11309,97_Street_&_103_Avenue
+1064,101_Street_&_103_Avenue
+1243,101_Street_&_102_Avenue
+1620,101_Street_&_Jasper_Avenue
+1673,103_Street_&_Jasper_Avenue
+1622,104_Street_&_Jasper_Avenue
+1619,106_Street_&_Jasper_Avenue
+1959,108_Street_&_Jasper_Avenue_Nearside
+1818,109_Street_&_Jasper_Avenue
+1828,124_Street_&_102_Avenue
+5386,142_Street_&_107_Avenue
+5840,West_Edmonton_Mall_Transit_Centre
+5381,178_Street_&_89_Avenue
+8614,Lewis_Farms_Transit_Centre

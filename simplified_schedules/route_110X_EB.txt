@@ -1,0 +1,22 @@
+110 Eaux_Claires_Express, 21 Stops
+1251,102_Street_&_MacDonald_Drive
+1346,101_Street_&_101_Avenue
+1986,104_Street_&_103_Avenue
+11382,106_Street_&_103_Avenue
+11095,109_Street_&_103_Avenue
+1702,109_Street_&_104_Avenue
+1605,109_Street_&_105_Avenue
+1717,109_Street_&_107_Avenue
+1736,109_Street_&_109_Avenue
+1899,109_Street_&_111_Avenue
+1674,109_Street_&_113_Avenue
+1890,109_Street_&_Princess_Elizabeth_Avenue
+1227,106_Street_&_117_Avenue
+1476,106_Street_&_118_Avenue
+1427,97_Street_&_118_Avenue
+1523,97_Street_&_122_Avenue
+7351,97_Street_&_127_Avenue
+7465,97_Street_&_132_Avenue
+7579,97_Street_&_135_Avenue
+7011,Northgate_Transit_Centre
+6310,Eaux_Claires_Transit_Centre

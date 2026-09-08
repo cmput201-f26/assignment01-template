@@ -1,0 +1,6 @@
+simplified_schedules/route_1_EB.txt
+simplified_schedules/route_1_WB.txt
+simplified_schedules/route_2_EB.txt
+simplified_schedules/route_31_WB.txt
+simplified_schedules/route_113_NB.txt
+simplified_schedules/route_701_SB.txt

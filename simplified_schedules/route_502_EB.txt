@@ -1,0 +1,12 @@
+502 Davies, 11 Stops
+2710,South_Campus_Fort_Edmonton_Transit_Centre
+2776,113_Street_&_65_Avenue
+2663,113_Street_&_61_Avenue
+22399,109_Street_&_61_Avenue
+22075,104_Street_&_63_Avenue
+2794,103_Street_&_63_Avenue
+2769,99_Street_&_63_Avenue
+2526,86_Street_&_Argyll_Road
+22045,83_Street_&_Wagner_Road
+22537,80_Street_&_Wagner_Road
+2608,Davies_Transit_Centre

@@ -1,0 +1,2 @@
+4 E,West_Edmonton_Mall_Transit_Centre,University_Transit_Centre,2026-05-02T14:32:00,2026-05-02T15:06:00,0:34:00
+5 E,Westmount_Transit_Centre,101_Street_&_Jasper_Avenue,2026-05-02T14:56:00,2026-05-02T15:20:00,0:24:00

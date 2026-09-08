@@ -1,0 +1,20 @@
+527 Mill_Woods, 19 Stops
+3288,66_Street_&_38_Avenue
+3287,Woodvale_Road_W_&_38_Avenue
+3574,Woodvale_Road_W_&_37_Avenue
+3448,Woodvale_Road_W_&_35_Avenue
+3324,Woodvale_Road_W_&_34_Avenue
+33022,60_Street_&_Woodvale_Road_West
+3455,Woodvale_Road_E_&_Hillview_Crescent
+3268,Woodvale_Road_E_&_35_Avenue
+3295,Woodvale_Road_E_&_38_Avenue
+3661,50_Street_&_38_Avenue
+3792,50_Street_&_34_Avenue
+3728,50_Street_&_31_Avenue
+3652,50_Street_&_28_Avenue
+3114,50_Street_&_25_Avenue
+3190,50_Street_&_23_Avenue
+3127,Hewes_Way_&_23_Avenue
+3087,58_Street_&_23_Avenue
+3967,66_Street_&_23_Avenue
+3910,Mill_Woods_Transit_Centre

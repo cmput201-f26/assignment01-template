@@ -1,0 +1,13 @@
+500 Downtown_Express, 12 Stops
+3709,Meadows_Transit_Centre
+22178,17_Street_&_66_Avenue
+2816,71_Street_&_Sherwood_Park_Freeway
+2551,83_Street_&_84_Avenue
+2445,89_Street_&_Connors_Road
+2481,91_Street_&_Connors_Road
+1457,100_Street_&_Jasper_Avenue
+1321,100_Street_&_102_Avenue
+1364,100_Street_&_103_Avenue
+11334,102_Street_&_104_Avenue
+1983,105_Street_&_104_Avenue
+11382,106_Street_&_103_Avenue

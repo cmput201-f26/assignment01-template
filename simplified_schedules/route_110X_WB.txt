@@ -1,0 +1,20 @@
+110 Downtown_Express, 19 Stops
+6310,Eaux_Claires_Transit_Centre
+7003,Northgate_Transit_Centre
+6594,97_Street_&_135_Avenue
+6339,97_Street_&_132_Avenue
+6280,97_Street_&_128_Avenue
+1398,97_Street_&_122_Avenue
+1287,97_Street_&_118_Avenue
+1075,105_Street_&_118_Avenue
+1223,106_Street_&_117_Avenue
+1860,109_Street_&_Princess_Elizabeth_Avenue
+1631,109_Street_&_113_Avenue
+1857,109_Street_&_111_Avenue
+1963,109_Street_&_108_Avenue
+1667,109_Street_&_107_Avenue
+1557,109_Street_&_105_Avenue
+11325,108_Street_&_103_Avenue
+11320,103_Street_&_103_Avenue
+1243,101_Street_&_102_Avenue
+1251,102_Street_&_MacDonald_Drive

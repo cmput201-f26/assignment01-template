@@ -1,0 +1,18 @@
+525 Ritchie, 17 Stops
+2808,Bonnie_Doon_Mall_South_Entrance
+2590,85_Street_&_82_Avenue
+2340,87_Street_&_82_Avenue
+2087,89_Street_&_82_Avenue
+2131,91_Street_&_82_Avenue
+2294,93_Street_&_82_Avenue
+2535,96_Street_&_82_Avenue
+2456,96_Street_&_79_Avenue
+2164,96_Street_&_78_Avenue
+2169,96_Street_&_76_Avenue
+2146,97_Street_&_76_Avenue
+2419,98_Street_&_77_Avenue
+2344,96_Street_&_76_Avenue
+2563,96_Street_&_74_Avenue
+2247,96_Street_&_73_Avenue
+2248,96_Street_&_71_Avenue
+2313,97_Street_&_71_Avenue

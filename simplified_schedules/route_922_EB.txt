@@ -1,0 +1,17 @@
+922 Lewis_Farms, 16 Stops
+8929,222_Street_&_Rosenthal_Boulevard
+88712,224_Street_&_Rosenthal_Boulevard
+88713,Rosenthal_Drive_&_Rosenthal_Boulevard
+88237,Rosenthal_Drive_&_86_Avenue
+88235,Rosenthal_Drive_&_88_Avenue
+88089,Secord_Boulevard_&_92_Avenue
+88088,223_Street_&_92_Avenue
+88709,Rosenthal_Way_&_92_Avenue
+88710,218_Street_&_92_Avenue
+8064,215_Street_&_Webber_Greens_Drive
+8096,213_Street_&_Webber_Greens_Drive
+8084,211_Street_&_Webber_Greens_Drive
+8132,Webber_Greens_Drive_&_92_Avenue
+8581,Suder_Greens_Drive_&_Webber_Greens_Drive
+8406,Suder_Greens_Drive_&_Webber_Greens_Drive
+8604,Lewis_Farms_Transit_Centre

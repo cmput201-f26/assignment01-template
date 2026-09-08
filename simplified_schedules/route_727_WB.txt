@@ -1,0 +1,23 @@
+727 Chappelle, 22 Stops
+9011,Heritage_Valley_Transit_Centre
+9352,122_Street_&_26_Avenue
+9428,119_Street_&_26_Avenue
+99129,119_Street_&_28_Avenue
+99141,119_Street_&_32_Avenue
+99250,119_Street_&_34_Avenue
+99057,Desrochers_Drive_&_35_Avenue
+99067,Desrochers_Drive_&_Davidson_Wynd
+99009,Duke_Crescent_&_Desrochers_Boulevard
+99076,141_Street_&_Dixon_Landing
+99505,141_Street_&_Heritage_Valley_Trail
+99017,Heritage_Valley_Trail_&_Chappelle_Road
+9755,Cartmell_Road_&_Chappelle_Road
+9757,Chappelle_Vista_&_Chappelle_Road
+9269,Chappelle_Drive_&_Chappelle_Road
+9603,Chappelle_Way_&_Chappelle_Road
+9604,Carson_Way_&_Chappelle_Way
+9609,Chappelle_Green_&_Chappelle_Way
+99243,Chappelle_Way_&_Chegwin_Wynd
+99233,Chappelle_Way_&_Colak_Lane
+99236,Chappelle_Way_&_Chivers_Loop
+99230,Chivers_Loop_&_Crawford_Drive

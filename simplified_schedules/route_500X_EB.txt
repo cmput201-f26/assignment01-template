@@ -1,0 +1,17 @@
+500 Meadows_Express, 16 Stops
+1983,105_Street_&_104_Avenue
+11382,106_Street_&_103_Avenue
+11095,109_Street_&_103_Avenue
+1824,108_Street_&_104_Avenue
+1679,105_Street_&_104_Avenue
+1915,103_Street_&_104_Avenue
+1570,101_Street_&_103_Avenue
+1608,100_Street_&_103_Avenue
+1292,100_Street_&_102_Avenue
+1542,100_Street_&_Jasper_Avenue
+2336,92_Street_&_Connors_Road
+2429,89_Street_&_Connors_Road
+2255,83_Street_&_82_Avenue
+2454,73_Street_&_82_Avenue
+22359,17_Street_&_66_Avenue
+3709,Meadows_Transit_Centre

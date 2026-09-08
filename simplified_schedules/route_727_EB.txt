@@ -1,0 +1,26 @@
+727 Heritage_Valley, 25 Stops
+99233,Chappelle_Way_&_Colak_Lane
+99236,Chappelle_Way_&_Chivers_Loop
+99230,Chivers_Loop_&_Crawford_Drive
+99232,Chappelle_Way_&_Cautley_Crescent
+9606,Cooper_Bend_&_Chappelle_Way
+99041,Chappelle_Green_&_Chappelle_Way
+9605,Carson_Way_&_Chappelle_Way
+9751,Chappelle_Way_&_Chappelle_Road
+9286,Chappelle_Drive_&_Chappelle_Road
+9752,Chappelle_Vista_&_Chappelle_Road
+99025,Charles_Link_&_Chappelle_Road
+99077,Heritage_Valley_Trail_&_Desrochers_Boulevard
+99010,Duke_Crescent_&_Desrochers_Boulevard
+99207,Desrochers_Drive_&_Desrochers_Boulevard
+99064,Desrochers_Drive_&_Darby_Bay
+99248,Desrochers_Boulevard_&_35_Avenue
+99249,119_Street_&_34_Avenue
+99143,119_Street_&_32_Avenue
+99127,119_Street_&_30_Avenue
+99128,119_Street_&_26_Avenue
+9426,119_Street_&_26_Avenue
+9353,122_Street_&_26_Avenue
+9354,127_Street_&_20_Avenue
+9355,127_Street_&_15_Avenue
+9011,Heritage_Valley_Transit_Centre
