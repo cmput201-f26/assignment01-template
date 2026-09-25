@@ -847,20 +847,21 @@ In this assignment, you are highly encouraged to develop your own set of test ca
 
 ## Marking Scheme
 
-The marking scheme for this assignment is as follows:
+The marking scheme for this assignment is as follows: This Assignment is worth 9% of your course grade.
 
 This lab is split into two parts, MS and FS
 
-- MS contributes 50% to your Assignment 1 mark (/20).
+- MS contributes 3% to your Assignment 1 mark (/20).
     - MS is marked using your submitted `assg.c` file, *within* the `milestone-submission` branch on your submitted repo.
-- FS contributes 50% to your Assignment 1 mark (/20).
+- FS contributes 6% to your Assignment 1 mark (/20).
     - FS is marked using your submitted `assg.c` file, on your `main` branch at the time of the final due date.
-- Passing the respective check script guarantees at least 50%. The other 50% will be based on our additional marking cases, which you do not have access to before submission.
+- If you do not complete the Milestone Submission, your FS will contribute to the entire 9% allotted to your Assignment 1 grade.
+- Passing the respective check script guarantees at least 50% on each submission. The other 50% will be based on our additional marking cases, which you do not have access to before submission (e.g., if you pass the two testcases for the MS, you're guaranteed to get 50% on the MS as a whole, which contributes to 3% of your Assignment 1 grade)
     - The expected output for MS is the `1-X-output.txt` files located in the `MS_Testcases` directory.
     - The expected output for FS is the `1-X-output.txt` files located in the `FS_Testcases` directory.
 - If you do not pass the testcases, you may still pass some of those marking cases and get some marks, so you should submit whatever you have!
 
 The final assignment mark will be the higher grade between:
-- Milestone 1 + Final Submission (50% Milestone 1 + 50% Final Submission)
+- Milestone 1 + Final Submission (3% Milestone 1 + 6%% Final Submission)
   OR
-- Final Submission (100% Final Submission)
+- Final Submission (9% Final Submission)
